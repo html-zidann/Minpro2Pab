@@ -110,8 +110,3 @@ Aplikasi ini dibuat untuk memenuhi tugas mini project pada mata kuliah pengemban
 
 ---
 
-## Author
-
-Zidan Daffa
-Program Studi Sistem Informasi
-Fakultas Teknik
