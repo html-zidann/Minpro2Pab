@@ -57,10 +57,10 @@ Semua data aplikasi disimpan secara online menggunakan **Supabase Database** seh
 
 Data alat musik yang disimpan memiliki field sebagai berikut:
 
-* **nama** → nama alat musik
-* **tahun** → tahun pembuatan alat musik
-* **pembuat** → brand atau perusahaan pembuat alat musik
-* **deskripsi** → penjelasan singkat mengenai alat musik
+* **nama** = nama alat musik
+* **tahun** = tahun pembuatan alat musik
+* **pembuat** = brand atau perusahaan pembuat alat musik
+* **deskripsi** = penjelasan singkat mengenai alat musik
 
 ---
 
